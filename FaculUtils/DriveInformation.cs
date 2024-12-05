@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-class List
+class ListDrives 
 {
     public static void Main()
     {
