@@ -1,4 +1,5 @@
 //Display some information and copy files
+//Pass the paths when calling the program
 using System;
 using System.Collections.Generic;
 using System.Linq;
